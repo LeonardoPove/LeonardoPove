@@ -34,7 +34,7 @@
 <br>
 <h3 align="center">Arquitectura MVVM</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="[https://i.imgur.com/7uCBigG.jpg](https://web-assets.esetstatic.com/wls/2021/05/autenticacion-dos-factores-funcionamiento.png)" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://web-assets.esetstatic.com/wls/2021/05/autenticacion-dos-factores-funcionamiento.png" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
