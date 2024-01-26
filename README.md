@@ -31,9 +31,9 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Autentificacion</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src=https://www.cloudflare.com/resources/images/slt3lc6tev37/iVLWiZgkpEMOKgvZ9ukUg/5b30ca255ae5b7dafdf586a77cdbfe81/what_is_authentication_password_example.png" width="400" alt="Autentificacion"></a>
+<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src=https://web-assets.esetstatic.com/wls/2021/05/autenticacion-dos-factores-funcionamiento.png" width="400" alt="Autentificacion"></a>
 <p>
 <a href="" target="_blank">
 <img src="">
