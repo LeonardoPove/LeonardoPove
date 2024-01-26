@@ -32,9 +32,9 @@
 <tr>
 <td width="50%">
 <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">Autenticación Segura</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://web-assets.esetstatic.com/wls/2021/05/autenticacion-dos-factores-funcionamiento.png" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="" target="_blank"><img src="https://web-assets.esetstatic.com/wls/2021/05/autenticacion-dos-factores-funcionamiento.png" width="400" alt="Autenticación Segura MVVM"></a>
 <br>
 <p>
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
