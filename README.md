@@ -31,15 +31,7 @@
 <div align="center">                                       
 <a href="" target="_blank"><img src="https://web-assets.esetstatic.com/wls/2021/05/autenticacion-dos-factores-funcionamiento.png" width="400" alt="Autenticación Segura MVVM"></a>
 <br>
-<p>
-<a href="" target="_blank">
-<img src="">
-</a>
-<a href="" target="_blank">
-<img src="">
-</a>
-</p>
-</p></p>
+
 </div>                                                                               
 </td>
 
