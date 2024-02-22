@@ -8,11 +8,7 @@
 </div>
 
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
 
 
 🔭 Currently, I am working on the comprehensive implementation of web authentication (Frontend & Backend) using Node.js and Angular.
