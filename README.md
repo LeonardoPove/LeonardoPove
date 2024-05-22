@@ -19,8 +19,8 @@
 📫 How to reach me: +57 311-496-3556 | leonardopoved@gmail.com | [LinkedIn](https://www.linkedin.com/in/leonardo-poveda-b8310827b/)
 
 ⚡ Fun fact: I am passionate about climbing and always seeking new experiences and challenges in mountainous environments!
-## Projects
- <!--<table>
+<!--## Projects
+ <table>
 <tr>
 <td width="50%">
 <br>
