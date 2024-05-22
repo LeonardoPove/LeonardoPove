@@ -10,7 +10,7 @@
 
 🔭 Currently, I am working on the comprehensive implementation of web authentication (Frontend & Backend) using Node.js and Angular.
 
-🌱 I am currently studying at the university [Software Design, Database Administration, B2 English, Communicative Competencies].
+🌱 I am currently studying at the university [Software Design, Database Administration, B1 English, Communicative Competencies].
 
 👯 I am seeking to collaborate on challenging projects that involve web development and programming in general.
 
