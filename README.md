@@ -16,7 +16,7 @@
 
 💬 Ask me about web authentication projects, Frontend and Backend development, or any programming-related queries.
 
-📫 How to reach me: +57 311-496-3556 | leonardopoved@gmail.com | [LinkedIn](https://www.linkedin.com/in/leonardo-poveda-b8310827b/)
+📫 How to reach me: +57 302-653-6186 | leonardopoved@gmail.com | [LinkedIn](https://www.linkedin.com/in/leonardo-poveda-b8310827b/)
 
 ⚡ Fun fact: I am passionate about climbing and always seeking new experiences and challenges in mountainous environments!
 <!--## Projects
